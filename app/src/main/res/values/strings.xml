@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileAppTest</string>
+    <string name="error">Error fetching movie</string>
+    <string name="popularity">Movie popularity</string>
+    <string name="top_rated">Highest rated movies</string>
+    <string name="upcoming">Upcoming movies</string>
+</resources>
